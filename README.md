@@ -42,7 +42,7 @@ The following controls were evaluated for Botium Toys:
 | Intrusion Detection System (IDS)              | No      |
 | Backups                                       | No      |
 | Antivirus Software                            | Yes     |
-| Manual Monitoring for Legacy Systems          | Yes     |
+| Manual Monitoring for Legacy Systems          | No      |
 | Encryption                                    | No      |
 | Password Management System                    | No      |
 | Locks (offices, storefront, warehouse)        | Yes     |
@@ -65,7 +65,7 @@ The following best practices were checked against relevant compliance standards:
 
 | Best Practice                                                             | Yes/No  |
 | ------------------------------------------------------------------------- | ------- |
-| E.U. customers' data is private/secured                                    | Yes     |
+| E.U. customers' data is private/secured                                    | No     |
 | Plan in place to notify E.U. customers within 72 hours of a data breach    | Yes     |
 | Data is properly classified and inventoried                                | No      |
 | Privacy policies and processes are enforced                                | Yes     |
@@ -77,7 +77,7 @@ The following best practices were checked against relevant compliance standards:
 | User access policies are established                                       | No      |
 | Sensitive data (PII/SPII) is kept confidential                             | No      |
 | Data integrity is ensured (consistent, complete, accurate)                 | Yes     |
-| Data is available to authorized individuals                                | Yes     |
+| Data is available to authorized individuals                                | No      |
 
 ## **Findings**
 The security audit revealed several areas where Botium Toys needs to implement critical controls to meet compliance and reduce risk. Key findings include:
